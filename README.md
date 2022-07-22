@@ -22,5 +22,6 @@ SO THAT I can create a strong password that provides greater security
 * The URL of the GitHub repository: https://github.com/Rob-Watson-84/password-generator
 
 ![Demo of what the page looks like](PW_Gen.png)
+![demo picture of generated password](PW_Created.png)
 
 ---
